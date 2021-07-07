@@ -1,6 +1,6 @@
 body {
     background: cyan;
-	background-image: url("images/bg_stylised.png");
+	background-image: url("bg.png");
 	background-repeat: repeat;
 	overflow-x: hidden;
 }
